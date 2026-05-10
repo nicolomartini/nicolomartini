@@ -1,9 +1,9 @@
 # Hi there 👋
 
-I am a **Control Systems Engineering Master's Student** at the University of Padova, Italy. My background is in Electronic Engineering, and my interests are robotics, AI, and automation.
+I am a **MSc Student in Control Systems Engineering** at the University of Padova, Italy. My main interests are **Robotics**, **AI**, and **Automation**.
 
 ### 🔭 Currently Working On
-- **Control over Wireless (ROS2 & Wi-Fi 6)**: Researching full-stack network delay for robotic applications using modern C++ and Python orchestrators.
+- **Control over Wireless (ROS2 & Wi-Fi 6)**: Researching full-stack network delay for robotic applications using modern C++ and Python orchestrator scripts.
 
 ### 🎓 Education
 - **MSc in Control Systems Engineering** - University of Padova *(Present)*
@@ -12,7 +12,7 @@ I am a **Control Systems Engineering Master's Student** at the University of Pad
 ### 🛠️ Tech Stack & Tools
 - **Languages**: C/C++, Python, MATLAB
 - **Robotics & Control**: ROS2 (Jazzy), Simulink, Control System Toolbox
-- **AI & Vision**: OpenCV, scikit-learn, Keras, Pandas, NumPy
+- **AI & Vision**: OpenCV, scikit-learn, Keras, NumPy
 - **DevOps & Tools**: Git, CMake, Conda, Linux (Ubuntu)
 
 ### 📫 Let's Connect!
