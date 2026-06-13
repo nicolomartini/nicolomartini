@@ -3,7 +3,7 @@
 I am a **MSc Student in Control Systems Engineering** at the University of Padova, Italy. My main interests are **Robotics**, **AI**, and **Automation**.
 
 ### 🔭 Currently Working On
-- **ROS 2-Based Control over Wireless**: Researching full-stack network delay for robotic applications using modern C++ and Python orchestrator scripts.
+- **ROS 2-Based Control over Wireless**: Researching full-stack network delay for robotic applications.
 
 ### 🎓 Education
 - **MSc in Control Systems Engineering** - University of Padova *Present*
