@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a **MSc Student in Control Systems Engineering** at the University of Padova, Italy.
+I am a **MSc Student in Control Systems Engineering** at the **University of Padova**, Italy.
 
 ### 🔭 Currently Working On
 - **ROS 2-Based Control over Wireless**: Researching full-stack network delay for robotic applications.
