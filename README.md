@@ -10,7 +10,7 @@ My main areas of interest are **Robotics**, **Automation**, **Data-Driven Contro
 
 ### 🎓 Education
 
-- **MSc in Control Systems Engineering** - University of Padova _(Present)_
+- **MSc in Control Systems Engineering** - University of Padova (_Present_)
 - **BSc in Electronic Engineering** - University of Padova
 
 ### 🛠️ Tech Stack & Tools
