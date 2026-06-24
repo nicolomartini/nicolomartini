@@ -1,4 +1,4 @@
-# Hi there, I'm Nicolò! 👋
+# Hi there! 👋
 
 I am a MSc Student in **Control Systems Engineering** at the **University of Padova**, Italy.
 
@@ -13,11 +13,16 @@ My main areas of interest are **Robotics**, **Automation**, **Data-Driven Contro
 - **MSc in Control Systems Engineering** - University of Padova (_Present_)
 - **BSc in Electronic Engineering** - University of Padova
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-- **Languages**: C/C++, Python, MATLAB
-- **Robotics & Control**: ROS 2 Jazzy, Simulink, Control System Toolbox, CasADi
-- **AI & Vision**: OpenCV, scikit-learn, Keras, NumPy
-- **DevOps & Tools**: Git, CMake, Conda, Linux Ubuntu
+- **Programming Languages**: C/C++, Python, Java, MATLAB
+- **Robotics & Control**: ROS 2, rclcpp, Simulink, Control System Toolbox, CasADi
+- **Data Science & AI**: NumPy, Pandas, SciPy, statsmodels, scikit-learn, Keras/TensorFlow, OpenCV
+- **OS & Tools**: Windows, Ubuntu, VS Code, Git, CMake, colcon, Conda, chrony, LaTeX
+
+### 🌍 Spoken Languages
+
+- **Italian**: Native
+- **English**: Fluent
 
 ### 📫 [Let's Connect!](https://www.linkedin.com/in/nicolomartini)
