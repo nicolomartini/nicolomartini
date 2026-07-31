@@ -1,8 +1,8 @@
 # Hi there! 👋
 
-I am a MSc Student in **Control Systems Engineering** at the **University of Padova**, Italy.
+I am an MSc student in **Control Systems Engineering** at the **University of Padova**, Italy.
 
-My main areas of interest are **Robotics**, **Automation**, **Data-Driven Control**, and **AI**.
+My main areas of interest are **automation**, **robotics**, and **AI**.
 
 ### 🔭 Currently Working On
 
