@@ -1,26 +1,15 @@
-# Hi there! 👋
+# Nicolò Martini
 
-I am an MSc student in **Control Systems Engineering** at the **University of Padova**, Italy.
+MSc student in **Control Systems Engineering** at the **University of Padova** (Italy), focusing on automation, robotics, and machine learning.
 
-My main areas of interest are **automation**, **robotics**, and **artificial intelligence**.
+## Current Research
 
-## 🔭 Currently Working On
+- **ROS 2-Based Control over Wireless**\
+  Investigating full-stack latency characterization, online estimation, and software-in-the-loop delay injection for networked robotic systems operating over IEEE 802.11 (Wi-Fi) infrastructures.
 
-- **ROS 2-Based Control over Wireless**: Researching full-stack Wi-Fi 6 network delay for robotic applications.
+## Technical Skills
 
-## 🎓 Education
-
-- **MSc in Control Systems Engineering** - University of Padova (_Present_)
-- **BSc in Electronic Engineering** - University of Padova
-
-## 💻 Tech Stack
-
-- **Programming Languages**: C/C++, Python, Java, MATLAB
-- **Robotics & Control**: ROS 2, rclcpp, Simulink, Control System Toolbox, CasADi
-- **Data Science & AI**: NumPy, Pandas, SciPy, statsmodels, scikit-learn, Keras/TensorFlow, OpenCV
-- **OS & Tools**: Windows, Ubuntu, VS Code, Git, CMake, colcon, Conda, chrony, LaTeX
-
-## 🌐 Spoken Languages
-
-- **Italian**: Native
-- **English**: Fluent
+- **Programming Languages**: C, C++, Python, MATLAB
+- **Robotics & Control**: ROS 2, Simulink, Control System Toolbox, CasADi
+- **Scientific Computing & ML**: NumPy, Pandas, SciPy, statsmodels, scikit-learn, Keras/TensorFlow, OpenCV
+- **Build & Development Tools**: Linux, Windows, VS Code, Git, CMake, colcon, Conda
