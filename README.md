@@ -4,8 +4,8 @@ MSc student in **Control Systems Engineering** at the **University of Padova**, 
 
 ## Current Research
 
-- **ROS 2-Based Control over Wireless**\
-  Investigating full-stack latency characterization, online estimation, and software-in-the-loop delay injection for networked robotic systems operating over IEEE 802.11 (Wi-Fi) infrastructures.
+- **ROS 2 Control over Wireless**\
+  Investigating end-to-end latency characterization, online estimation, and software-in-the-loop delay injection for networked robotic systems operating over IEEE 802.11 (Wi-Fi) infrastructures.
 
 ## Technical Skills
 
