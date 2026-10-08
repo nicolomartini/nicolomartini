@@ -1,11 +1,11 @@
 # Nicolò Martini
 
-MSc student in **Control Systems Engineering** at the **University of Padova**, Italy, focusing on automation, robotics, and machine learning.
+MSc student in **Control Systems Engineering** at the **University of Padova**, Italy, focusing on model predictive control, networked control systems, robotics, reinforcement learning, and machine learning.
 
 ## Current Research
 
 - **ROS 2 Control over Wireless**\
-  Investigating end-to-end latency characterization, online estimation, and software-in-the-loop delay injection for networked robotic systems operating over IEEE 802.11 (Wi-Fi) infrastructures.
+  Investigating end-to-end latency characterization, online estimation, and software-in-the-loop delay injection for networked robotic systems operating over Wi-Fi infrastructures.
 
 ## Technical Skills
 
