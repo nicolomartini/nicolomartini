@@ -10,6 +10,6 @@ MSc student in **Control Systems Engineering** at the **University of Padova**, 
 ## Technical Skills
 
 - **Programming Languages**: C++, Python, MATLAB
-- **Robotics & Control**: ROS 2, Simulink, Control System Toolbox, CasADi
+- **Robotics & Control**: ROS 2, Simulink, Control System Toolbox, CasADi, acados
 - **Scientific Computing & ML**: NumPy, pandas, SciPy, statsmodels, scikit-learn, PyTorch, OpenCV
 - **Build & Development Tools**: Linux, Windows, VS Code, Git, CMake, colcon, Conda
